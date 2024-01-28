@@ -1,4 +1,4 @@
-                                                      RAZORPAY CLONE
+# RAZORPAY CLONE
 
    This site is made using Tailwind CSS.
    
@@ -6,7 +6,7 @@
 
    The beauty of this thing called tailwind is it doesn’t impose design specifications or how your site should look, you simply bring tiny components together to construct a user interface that is unique. What Tailwind simply does is take a ‘raw’ CSS file, process this CSS file over a configuration file, and produce an output.
 
-   Why Tailwind CSS?
+##   Why Tailwind CSS?
    
    -The faster UI building process
    
